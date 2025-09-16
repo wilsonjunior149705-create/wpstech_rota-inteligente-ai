@@ -1,0 +1,301 @@
+﻿id,rua,origem,destino,distancia_km,tempo_min,mao_unica,sem_saida,acidente,obras
+1,Rua_001,João Pessoa,Belém,24.86,36.9,0,0,0,0
+2,Rua_002,Manaus,Salvador,4.97,8.2,1,0,0,0
+3,Rua_003,Brasília,Belém,26.13,44.0,1,0,0,0
+4,Rua_004,São Paulo,Porto Alegre,29.14,36.0,1,0,0,0
+5,Rua_005,Salvador,Fortaleza,27.15,38.0,0,1,0,0
+6,Rua_006,João Pessoa,Cuiabá,20.26,27.6,0,0,0,0
+7,Rua_007,Curitiba,Maceió,27.7,52.6,0,0,0,0
+8,Rua_008,Manaus,Brasília,1.65,2.3,1,0,0,0
+9,Rua_009,Recife,Natal,5.24,18.8,0,0,0,0
+10,Rua_010,Rio de Janeiro,Porto Alegre,5.88,2.7,1,0,0,0
+11,Rua_011,Brasília,João Pessoa,17.76,27.7,1,0,0,0
+12,Rua_012,São Paulo,Manaus,6.91,6.3,0,0,0,0
+13,Rua_013,São Paulo,Cuiabá,20.18,57.2,0,1,0,0
+14,Rua_014,Florianópolis,Brasília,12.26,15.4,0,1,0,0
+15,Rua_015,Maceió,Brasília,7.25,25.3,1,0,1,0
+16,Rua_016,Brasília,Salvador,8.5,10.2,1,1,0,0
+17,Rua_017,Salvador,Niterói,27.64,30.4,1,1,0,0
+18,Rua_018,Recife,Porto Alegre,28.66,63.8,0,1,0,0
+19,Rua_019,Curitiba,Maceió,10.9,20.2,1,0,0,0
+20,Rua_020,Rio de Janeiro,Niterói,29.79,44.1,1,0,0,0
+21,Rua_021,João Pessoa,Natal,7.01,15.4,0,0,0,0
+22,Rua_022,Maceió,Natal,4.32,1.6,1,1,0,0
+23,Rua_023,Brasília,Salvador,17.77,18.0,0,0,0,0
+24,Rua_024,Recife,Fortaleza,16.07,22.1,0,0,0,0
+25,Rua_025,Florianópolis,Brasília,23.14,35.6,1,0,0,1
+26,Rua_026,Campinas,João Pessoa,24.73,37.1,0,1,0,0
+27,Rua_027,Cuiabá,Campinas,3.28,8.9,1,0,0,0
+28,Rua_028,Belém,Niterói,22.5,40.4,1,0,0,0
+29,Rua_029,João Pessoa,Maceió,18.97,56.8,1,0,0,0
+30,Rua_030,Belo Horizonte,Fortaleza,7.08,12.1,0,0,0,0
+31,Rua_031,Fortaleza,João Pessoa,18.02,23.7,0,0,0,0
+32,Rua_032,Manaus,Curitiba,22.19,40.2,1,0,0,0
+33,Rua_033,Manaus,Niterói,1.95,8.0,1,0,0,0
+34,Rua_034,Curitiba,Natal,4.25,15.3,0,0,0,0
+35,Rua_035,Goiânia,Natal,19.16,32.1,1,0,0,0
+36,Rua_036,Florianópolis,Niterói,7.31,16.4,0,0,0,0
+37,Rua_037,São Paulo,Recife,4.21,7.8,1,0,0,0
+38,Rua_038,Florianópolis,Fortaleza,29.57,43.0,1,0,0,0
+39,Rua_039,Belo Horizonte,Curitiba,21.78,30.0,1,0,0,0
+40,Rua_040,Goiânia,Brasília,24.14,57.1,0,0,0,0
+41,Rua_041,Niterói,Manaus,29.74,44.5,1,1,0,0
+42,Rua_042,Recife,Cuiabá,11.44,28.6,0,0,0,0
+43,Rua_043,São Paulo,Belém,26.98,50.8,0,0,0,0
+44,Rua_044,Natal,Goiânia,4.77,3.8,1,0,1,0
+45,Rua_045,São Paulo,Rio de Janeiro,9.4,20.4,1,0,0,0
+46,Rua_046,Belém,Santos,13.12,34.5,1,0,0,0
+47,Rua_047,Porto Alegre,Fortaleza,8.59,22.2,0,0,0,0
+48,Rua_048,Goiânia,Manaus,19.06,30.9,1,0,0,1
+49,Rua_049,Cuiabá,João Pessoa,13.49,22.8,1,0,0,0
+50,Rua_050,Cuiabá,Salvador,10.19,12.4,0,0,0,0
+51,Rua_051,Manaus,Porto Alegre,20.33,35.3,0,1,1,0
+52,Rua_052,Brasília,Recife,12.09,39.9,0,0,0,0
+53,Rua_053,Fortaleza,Belo Horizonte,17.24,34.2,1,0,0,0
+54,Rua_054,Rio de Janeiro,Natal,9.68,7.6,1,0,0,0
+55,Rua_055,Goiânia,Niterói,28.75,46.1,0,1,0,0
+56,Rua_056,Porto Alegre,Cuiabá,24.8,37.7,0,0,0,0
+57,Rua_057,Belém,Florianópolis,0.64,8.6,0,0,0,0
+58,Rua_058,Natal,São Paulo,12.37,13.4,0,1,0,0
+59,Rua_059,Cuiabá,Manaus,7.68,23.4,0,0,0,0
+60,Rua_060,Belém,Manaus,3.83,3.8,0,0,0,0
+61,Rua_061,Porto Alegre,Belo Horizonte,7.39,19.0,1,0,1,0
+62,Rua_062,Campinas,Santos,1.91,12.6,1,0,0,0
+63,Rua_063,Belo Horizonte,Fortaleza,29.58,43.6,0,0,0,0
+64,Rua_064,Maceió,Santos,12.1,26.2,0,1,0,0
+65,Rua_065,Maceió,Rio de Janeiro,13.67,14.3,1,0,0,0
+66,Rua_066,Porto Alegre,Rio de Janeiro,13.02,21.6,1,0,0,0
+67,Rua_067,Belo Horizonte,Brasília,23.33,29.7,1,0,0,0
+68,Rua_068,Recife,Salvador,7.71,13.7,0,1,0,0
+69,Rua_069,João Pessoa,Fortaleza,9.03,17.6,0,0,0,0
+70,Rua_070,Maceió,João Pessoa,9.54,17.1,0,1,0,0
+71,Rua_071,Florianópolis,Rio de Janeiro,16.82,21.8,1,0,1,0
+72,Rua_072,Salvador,Fortaleza,21.22,39.3,0,0,0,0
+73,Rua_073,Salvador,Manaus,10.63,14.2,1,0,0,1
+74,Rua_074,Goiânia,Recife,7.21,15.0,0,0,0,0
+75,Rua_075,Belo Horizonte,Maceió,9.17,21.7,1,0,1,0
+76,Rua_076,Campinas,Belém,28.64,52.4,0,0,0,0
+77,Rua_077,João Pessoa,São Paulo,3.84,9.7,0,1,0,0
+78,Rua_078,Fortaleza,Natal,29.86,65.7,0,0,0,1
+79,Rua_079,São Paulo,Fortaleza,11.51,19.5,1,0,0,0
+80,Rua_080,Recife,Maceió,2.97,12.3,1,0,0,0
+81,Rua_081,Cuiabá,Brasília,14.96,23.9,0,0,0,0
+82,Rua_082,Curitiba,Natal,6.86,16.6,1,0,0,0
+83,Rua_083,Goiânia,Maceió,22.35,28.5,0,0,0,0
+84,Rua_084,Santos,Curitiba,16.33,46.2,1,0,0,0
+85,Rua_085,Campinas,Cuiabá,22.98,40.7,0,0,1,0
+86,Rua_086,Florianópolis,São Paulo,21.46,36.0,0,0,0,0
+87,Rua_087,Brasília,Goiânia,6.58,10.3,0,0,0,0
+88,Rua_088,Belém,Belo Horizonte,11.16,11.5,0,0,0,0
+89,Rua_089,Salvador,João Pessoa,5.47,7.9,0,0,0,0
+90,Rua_090,São Paulo,Florianópolis,27.24,32.6,1,1,0,1
+91,Rua_091,Manaus,Cuiabá,12.63,16.3,0,0,0,0
+92,Rua_092,Belém,Campinas,28.79,45.3,1,0,0,0
+93,Rua_093,Maceió,Belém,18.25,27.5,0,1,0,0
+94,Rua_094,Curitiba,Rio de Janeiro,13.63,26.9,0,0,0,0
+95,Rua_095,João Pessoa,Belo Horizonte,25.26,53.8,1,0,0,0
+96,Rua_096,Salvador,Belo Horizonte,7.03,12.5,0,0,0,0
+97,Rua_097,Recife,São Paulo,26.66,68.6,1,0,0,0
+98,Rua_098,Cuiabá,Campinas,18.49,42.5,0,1,0,0
+99,Rua_099,São Paulo,Campinas,6.9,18.4,1,0,0,0
+100,Rua_100,Santos,João Pessoa,15.75,44.6,1,0,0,0
+101,Rua_101,Porto Alegre,Recife,27.68,45.8,0,0,0,0
+102,Rua_102,São Paulo,Manaus,22.26,30.1,0,0,0,0
+103,Rua_103,Belo Horizonte,Cuiabá,19.04,35.6,1,0,0,0
+104,Rua_104,Porto Alegre,Belém,5.56,8.6,1,0,1,0
+105,Rua_105,Natal,Niterói,26.69,37.7,0,0,0,0
+106,Rua_106,Belo Horizonte,Maceió,11.87,25.5,1,0,0,0
+107,Rua_107,Rio de Janeiro,Niterói,0.5,1.0,0,0,0,0
+108,Rua_108,Campinas,Niterói,8.45,18.8,1,1,0,0
+109,Rua_109,Niterói,Porto Alegre,20.04,60.2,1,0,0,0
+110,Rua_110,Maceió,Curitiba,19.0,16.2,1,0,0,0
+111,Rua_111,São Paulo,Maceió,12.58,16.1,1,0,0,0
+112,Rua_112,Belém,Niterói,21.5,48.6,0,0,0,0
+113,Rua_113,Belém,João Pessoa,21.35,29.0,1,0,0,0
+114,Rua_114,Maceió,Santos,24.15,31.8,1,0,0,0
+115,Rua_115,Maceió,Recife,12.52,16.4,0,0,0,0
+116,Rua_116,Belém,Niterói,13.24,9.5,1,0,0,0
+117,Rua_117,Curitiba,Salvador,8.14,12.0,0,0,1,0
+118,Rua_118,Florianópolis,Manaus,4.81,7.1,0,0,0,0
+119,Rua_119,Belo Horizonte,João Pessoa,11.38,29.3,0,0,1,0
+120,Rua_120,Maceió,Santos,2.52,2.4,0,0,0,0
+121,Rua_121,Recife,Natal,24.29,24.0,0,0,0,0
+122,Rua_122,São Paulo,Santos,2.84,11.1,1,0,0,0
+123,Rua_123,Belém,Rio de Janeiro,27.46,58.9,0,0,0,0
+124,Rua_124,Natal,Goiânia,8.36,21.9,1,0,0,0
+125,Rua_125,Maceió,João Pessoa,13.19,32.3,1,0,0,0
+126,Rua_126,Belo Horizonte,Maceió,29.27,36.4,0,0,0,1
+127,Rua_127,Manaus,Brasília,29.75,34.9,0,0,0,0
+128,Rua_128,Santos,Salvador,6.4,8.6,1,0,0,0
+129,Rua_129,Manaus,Goiânia,0.88,4.0,0,0,0,0
+130,Rua_130,Curitiba,Recife,16.09,35.7,0,0,0,0
+131,Rua_131,João Pessoa,Goiânia,23.7,46.4,0,0,0,0
+132,Rua_132,Curitiba,Niterói,17.3,32.2,0,0,0,0
+133,Rua_133,Belém,Maceió,10.52,22.0,1,0,0,0
+134,Rua_134,Santos,Manaus,13.36,34.4,0,0,0,0
+135,Rua_135,Goiânia,Natal,19.38,37.5,1,0,0,0
+136,Rua_136,Belém,Santos,6.84,13.7,1,0,0,0
+137,Rua_137,Curitiba,Salvador,11.39,30.1,0,0,0,0
+138,Rua_138,Niterói,Fortaleza,21.99,27.7,0,0,0,0
+139,Rua_139,Goiânia,Salvador,25.83,61.0,1,0,0,0
+140,Rua_140,Florianópolis,Manaus,3.08,4.1,0,0,0,0
+141,Rua_141,Goiânia,Rio de Janeiro,22.71,60.4,1,0,0,0
+142,Rua_142,Cuiabá,Maceió,15.99,50.3,0,0,0,0
+143,Rua_143,Natal,Belém,29.32,30.6,1,0,0,0
+144,Rua_144,Maceió,Campinas,2.4,16.3,1,0,0,0
+145,Rua_145,Campinas,Belo Horizonte,0.95,7.2,1,0,0,0
+146,Rua_146,Salvador,Porto Alegre,15.98,23.4,0,0,0,0
+147,Rua_147,Curitiba,Goiânia,17.07,26.8,1,0,0,0
+148,Rua_148,Campinas,Rio de Janeiro,20.91,61.7,1,0,0,0
+149,Rua_149,São Paulo,Porto Alegre,12.88,20.6,0,0,0,0
+150,Rua_150,Belém,Curitiba,7.95,13.6,0,0,0,0
+151,Rua_151,Brasília,Rio de Janeiro,16.03,28.4,1,1,0,0
+152,Rua_152,Goiânia,Salvador,23.83,40.2,1,0,0,0
+153,Rua_153,Natal,Maceió,30.0,45.4,1,0,0,0
+154,Rua_154,João Pessoa,Natal,7.2,9.1,1,0,0,0
+155,Rua_155,Belém,Manaus,11.53,19.3,0,0,1,0
+156,Rua_156,Goiânia,Curitiba,1.33,10.6,1,0,0,0
+157,Rua_157,Belém,Brasília,17.08,38.7,1,0,0,0
+158,Rua_158,Cuiabá,Rio de Janeiro,3.83,1.0,1,0,0,0
+159,Rua_159,Campinas,Manaus,28.15,58.3,1,0,0,1
+160,Rua_160,Manaus,Rio de Janeiro,19.38,42.0,1,0,0,0
+161,Rua_161,Maceió,Manaus,2.27,7.0,1,0,1,1
+162,Rua_162,Manaus,Natal,6.92,17.2,0,0,0,0
+163,Rua_163,Natal,Belo Horizonte,5.25,8.6,1,1,0,0
+164,Rua_164,Campinas,Goiânia,10.95,26.4,1,0,0,0
+165,Rua_165,Salvador,Rio de Janeiro,16.96,26.6,0,1,0,0
+166,Rua_166,Maceió,João Pessoa,11.48,22.1,0,0,0,0
+167,Rua_167,Belém,São Paulo,14.98,19.6,1,0,0,0
+168,Rua_168,Natal,Porto Alegre,1.1,3.5,1,0,0,0
+169,Rua_169,Natal,Cuiabá,14.8,29.0,0,1,0,0
+170,Rua_170,Santos,Cuiabá,21.84,38.9,1,0,0,0
+171,Rua_171,Fortaleza,Campinas,17.29,35.0,0,1,1,0
+172,Rua_172,Niterói,Natal,27.81,42.5,0,0,0,0
+173,Rua_173,Belém,São Paulo,8.96,17.7,1,0,1,0
+174,Rua_174,Porto Alegre,Manaus,22.69,39.0,0,0,1,0
+175,Rua_175,São Paulo,Salvador,18.25,43.9,0,0,0,0
+176,Rua_176,Curitiba,Cuiabá,18.23,31.4,1,0,0,1
+177,Rua_177,Manaus,Natal,22.44,63.2,1,0,0,0
+178,Rua_178,Belém,Campinas,6.78,11.1,0,0,0,0
+179,Rua_179,Porto Alegre,Rio de Janeiro,9.72,33.5,1,0,0,0
+180,Rua_180,Recife,São Paulo,26.18,57.9,1,1,0,0
+181,Rua_181,Maceió,São Paulo,18.27,42.3,1,0,1,0
+182,Rua_182,Rio de Janeiro,Santos,8.21,16.9,1,0,0,0
+183,Rua_183,Belém,Niterói,0.96,8.3,1,0,0,1
+184,Rua_184,Maceió,Niterói,18.99,40.6,0,0,0,0
+185,Rua_185,Curitiba,Goiânia,12.65,23.0,0,0,1,0
+186,Rua_186,São Paulo,Salvador,29.08,64.2,0,0,0,0
+187,Rua_187,Manaus,Cuiabá,13.32,39.7,0,0,0,0
+188,Rua_188,João Pessoa,Goiânia,6.73,11.3,0,0,0,0
+189,Rua_189,Recife,Santos,11.08,27.9,1,0,0,0
+190,Rua_190,Brasília,Rio de Janeiro,3.61,9.1,0,0,0,0
+191,Rua_191,Goiânia,Belo Horizonte,13.31,19.5,1,0,0,1
+192,Rua_192,Rio de Janeiro,Curitiba,22.76,68.1,1,0,0,1
+193,Rua_193,Belo Horizonte,Cuiabá,13.59,43.2,0,0,0,0
+194,Rua_194,Belo Horizonte,Goiânia,21.51,28.8,0,0,0,0
+195,Rua_195,Santos,Porto Alegre,22.78,28.0,1,0,1,0
+196,Rua_196,Belo Horizonte,Curitiba,15.01,19.8,1,0,0,0
+197,Rua_197,Campinas,Cuiabá,25.46,38.9,1,0,0,1
+198,Rua_198,Rio de Janeiro,São Paulo,16.98,36.8,0,0,0,0
+199,Rua_199,Goiânia,Maceió,15.04,33.3,1,0,0,1
+200,Rua_200,Santos,Campinas,26.53,53.5,0,0,0,1
+201,Rua_201,Belém,Belo Horizonte,22.05,21.3,0,0,0,0
+202,Rua_202,Florianópolis,Salvador,8.02,10.0,0,0,0,0
+203,Rua_203,Recife,São Paulo,12.19,11.0,1,0,0,0
+204,Rua_204,Cuiabá,Manaus,12.15,23.6,0,0,0,0
+205,Rua_205,Belém,Belo Horizonte,10.72,15.2,1,0,0,0
+206,Rua_206,Campinas,Belo Horizonte,7.04,10.9,0,0,0,0
+207,Rua_207,Florianópolis,Brasília,5.63,16.9,1,0,0,0
+208,Rua_208,Belém,Salvador,1.72,7.1,1,1,1,0
+209,Rua_209,Campinas,Porto Alegre,21.55,38.0,1,0,0,0
+210,Rua_210,São Paulo,Campinas,12.53,26.3,1,0,0,0
+211,Rua_211,Belém,Goiânia,13.64,26.8,0,0,0,0
+212,Rua_212,Florianópolis,São Paulo,7.15,16.7,1,0,0,0
+213,Rua_213,São Paulo,Belém,26.04,34.6,1,0,0,0
+214,Rua_214,Porto Alegre,Niterói,13.54,20.9,1,0,1,0
+215,Rua_215,Goiânia,Recife,23.52,31.6,0,1,0,0
+216,Rua_216,Natal,Florianópolis,23.1,55.1,1,0,1,0
+217,Rua_217,Goiânia,Recife,16.37,37.1,1,0,0,0
+218,Rua_218,Recife,Salvador,16.83,26.2,0,0,1,0
+219,Rua_219,Brasília,Florianópolis,7.16,15.9,0,0,0,0
+220,Rua_220,Belém,Brasília,29.17,52.8,1,0,0,0
+221,Rua_221,Natal,Brasília,28.7,35.0,0,0,0,0
+222,Rua_222,Natal,Manaus,24.45,49.6,1,0,0,0
+223,Rua_223,Brasília,São Paulo,1.76,7.0,1,0,0,0
+224,Rua_224,João Pessoa,Santos,10.34,19.5,0,0,1,0
+225,Rua_225,Belém,Fortaleza,14.03,15.3,1,0,0,0
+226,Rua_226,Belo Horizonte,Curitiba,16.97,28.0,0,0,0,0
+227,Rua_227,Santos,Belém,0.76,1.3,0,0,0,0
+228,Rua_228,São Paulo,Rio de Janeiro,24.55,37.1,1,0,0,0
+229,Rua_229,Belém,Goiânia,25.21,55.4,0,0,1,0
+230,Rua_230,Salvador,João Pessoa,26.89,29.9,0,0,0,0
+231,Rua_231,Florianópolis,Natal,29.56,46.3,0,0,0,0
+232,Rua_232,Maceió,Salvador,27.23,77.0,1,0,0,0
+233,Rua_233,Florianópolis,Salvador,6.16,4.8,1,0,0,0
+234,Rua_234,Porto Alegre,João Pessoa,23.43,24.1,0,0,0,0
+235,Rua_235,Belém,Curitiba,14.42,36.4,0,0,0,0
+236,Rua_236,Goiânia,Belo Horizonte,3.68,10.1,1,0,0,0
+237,Rua_237,Curitiba,Salvador,18.36,24.1,1,0,0,0
+238,Rua_238,Cuiabá,Goiânia,2.33,7.0,0,0,0,0
+239,Rua_239,São Paulo,Florianópolis,11.13,15.6,0,0,0,0
+240,Rua_240,Rio de Janeiro,Santos,23.12,26.5,0,1,0,0
+241,Rua_241,São Paulo,Cuiabá,22.32,30.7,1,0,0,0
+242,Rua_242,Cuiabá,Florianópolis,6.5,14.0,1,1,0,0
+243,Rua_243,João Pessoa,Goiânia,11.88,19.6,0,0,0,0
+244,Rua_244,Brasília,Campinas,9.65,20.2,1,0,0,0
+245,Rua_245,Natal,Campinas,7.61,12.0,1,0,0,0
+246,Rua_246,Curitiba,Rio de Janeiro,11.09,20.9,0,0,1,0
+247,Rua_247,Santos,Salvador,21.74,56.3,1,0,0,0
+248,Rua_248,Natal,Goiânia,6.94,16.3,1,0,0,0
+249,Rua_249,Salvador,Curitiba,28.05,36.1,0,0,0,0
+250,Rua_250,João Pessoa,Cuiabá,4.23,8.8,1,0,0,0
+251,Rua_251,Santos,São Paulo,17.3,49.2,1,0,0,0
+252,Rua_252,Rio de Janeiro,Goiânia,5.59,8.1,1,0,1,0
+253,Rua_253,Cuiabá,Fortaleza,10.16,6.6,1,0,0,0
+254,Rua_254,Belo Horizonte,São Paulo,28.59,35.5,1,1,0,1
+255,Rua_255,Belém,Manaus,0.37,1.0,0,0,0,0
+256,Rua_256,Campinas,Cuiabá,24.94,41.0,1,0,0,0
+257,Rua_257,Natal,Fortaleza,17.63,42.9,0,0,0,0
+258,Rua_258,Rio de Janeiro,Maceió,26.21,44.5,1,0,0,0
+259,Rua_259,Cuiabá,Belém,14.32,37.9,0,0,1,0
+260,Rua_260,Cuiabá,Fortaleza,12.24,33.7,1,0,0,0
+261,Rua_261,Recife,Natal,18.91,20.5,0,0,1,1
+262,Rua_262,Campinas,Curitiba,13.48,15.6,0,0,0,0
+263,Rua_263,Brasília,Maceió,22.4,35.5,1,1,0,0
+264,Rua_264,Salvador,Curitiba,1.23,1.0,0,0,0,1
+265,Rua_265,Natal,Belém,2.06,1.0,1,0,0,0
+266,Rua_266,Belém,Belo Horizonte,7.14,11.6,0,0,0,0
+267,Rua_267,Cuiabá,Brasília,6.99,10.4,0,1,0,0
+268,Rua_268,Brasília,Manaus,4.06,4.4,0,0,0,0
+269,Rua_269,Rio de Janeiro,Florianópolis,17.88,50.3,0,0,0,0
+270,Rua_270,Curitiba,Recife,6.72,8.9,1,1,0,0
+271,Rua_271,Florianópolis,Natal,26.85,60.9,0,0,1,0
+272,Rua_272,Brasília,Manaus,1.3,2.3,0,0,0,0
+273,Rua_273,João Pessoa,Natal,6.08,27.1,0,0,0,0
+274,Rua_274,Manaus,Brasília,27.24,57.7,0,0,0,0
+275,Rua_275,Rio de Janeiro,Goiânia,0.57,6.3,1,0,0,0
+276,Rua_276,Belo Horizonte,Belém,18.88,48.7,0,0,0,0
+277,Rua_277,Manaus,João Pessoa,2.5,1.8,0,0,0,0
+278,Rua_278,Cuiabá,Rio de Janeiro,15.22,24.1,1,1,0,0
+279,Rua_279,Florianópolis,Campinas,7.38,14.9,1,0,0,0
+280,Rua_280,São Paulo,Belo Horizonte,9.27,10.1,0,0,0,0
+281,Rua_281,Belo Horizonte,Niterói,4.44,8.6,1,0,0,0
+282,Rua_282,Curitiba,Fortaleza,5.05,9.8,0,0,1,0
+283,Rua_283,Maceió,Santos,26.03,40.9,0,0,0,0
+284,Rua_284,Niterói,Curitiba,1.29,9.9,0,0,0,0
+285,Rua_285,Belo Horizonte,Salvador,1.3,11.8,0,0,1,0
+286,Rua_286,Santos,João Pessoa,12.41,30.5,0,0,0,0
+287,Rua_287,Recife,Rio de Janeiro,9.62,30.7,0,0,1,0
+288,Rua_288,Belo Horizonte,Campinas,23.3,32.6,1,0,0,0
+289,Rua_289,Maceió,Belém,20.87,22.1,0,0,1,1
+290,Rua_290,Fortaleza,Belo Horizonte,11.65,36.6,1,0,0,0
+291,Rua_291,Cuiabá,Fortaleza,7.01,17.6,1,0,0,0
+292,Rua_292,Salvador,Belém,12.31,23.9,1,0,0,0
+293,Rua_293,Campinas,Natal,15.8,19.1,0,0,0,0
+294,Rua_294,Brasília,Campinas,21.77,32.5,0,1,0,0
+295,Rua_295,Fortaleza,Belém,28.45,58.4,0,0,1,0
+296,Rua_296,Maceió,Cuiabá,3.16,6.4,0,0,0,0
+297,Rua_297,Natal,Porto Alegre,28.97,48.0,1,0,0,1
+298,Rua_298,Fortaleza,Santos,21.16,54.9,0,0,1,0
+299,Rua_299,Florianópolis,Santos,28.1,46.0,1,0,0,1
+300,Rua_300,Campinas,Brasília,18.91,43.0,1,1,0,0
